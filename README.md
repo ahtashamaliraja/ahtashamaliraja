@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahtasham Ali Raja 👋
 
 ## Full-Stack Web Developer | WordPress & Shopify Expert | Custom Solutions Architect
 
@@ -41,33 +41,12 @@ I'm a passionate full-stack developer specializing in building robust, scalable 
 - AWS, DigitalOcean
 - CI/CD Pipelines
 
-### 🌟 Featured Projects
-
-<!-- Add your top projects here -->
-<!--
-**[Project Name](link)** - Brief description
-- Technologies used
-- Key features
--->
-
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-### 💼 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [Ahtasham Ali Raja](www.linkedin.com/in/ahtasham-ali-raja)
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📘 Facebook: [Ahtasham Ali Raja](https://www.facebook.com/share/1J54Hy7Duz/)
+- 📸 Instagram: [@ahtashamaliraja](https://instagram.com/ahtasham_aliraja)
 
 ### 📫 Open for Opportunities
 
@@ -81,4 +60,4 @@ Feel free to reach out – let's build something amazing together!
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [ahtashamaliraja](https://github.com/ahtashamaliraja)
