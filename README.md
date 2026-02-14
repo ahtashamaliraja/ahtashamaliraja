@@ -43,7 +43,7 @@ I'm a passionate full-stack developer specializing in building robust, scalable 
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Ahtasham Ali Raja](www.linkedin.com/in/ahtasham-ali-raja)
+- 💼 LinkedIn: [Ahtasham Ali Raja](https://www.linkedin.com/in/ahtasham-ali-raja/)
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 📘 Facebook: [Ahtasham Ali Raja](https://www.facebook.com/share/1J54Hy7Duz/)
 - 📸 Instagram: [@ahtashamaliraja](https://instagram.com/ahtasham_aliraja)
